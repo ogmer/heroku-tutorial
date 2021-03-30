@@ -34,7 +34,7 @@ $LightCard = $num2;
 		}  elseif ($LowNum <= $result){
 		   echo "You Lose...".PHP_EOL.PHP_EOL;
 		}  
-		echo'<a href="highAndLows03.php">もう一度挑戦</a>';
+		echo'<a href="HighAndLows.send.php">もう一度挑戦</a>';
 		?>
 		</div>
     </body>
