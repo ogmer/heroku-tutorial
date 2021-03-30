@@ -11,7 +11,7 @@
     <div align="center">
     <font size="6">High&amp;Lowゲーム</font>
 	<hr>
-	<form action="highAndLowS07.php"method="post">
+	<form action="highAndLowSend.php"method="post">
 	<?php
 	echo '<img src="../cards/',$cards[$num1],'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;';
 	echo '<img src="../cards/bg.png">';
