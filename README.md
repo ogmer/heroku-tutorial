@@ -1,2 +1,5 @@
 # TrumpCard-PHP
-Maked by PHP 
+
+deploy by Heroku
+
+https://ogmer.herokuapp.com/
