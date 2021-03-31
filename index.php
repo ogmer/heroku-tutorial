@@ -12,6 +12,6 @@
     <style>
     body {
     text-align: center;
-    backgroung-color: skyblue;
+    backgroung-color: lightskyblue;
     </style>
 </html>
