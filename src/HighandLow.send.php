@@ -13,7 +13,8 @@
 		<hr>
 		<form action="HighAndLow.recieve.php"method="post">
 		<?php
-		echo '<img src="../cards/',$cards[$num1],'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;';
+		//echo '<img src="../cards/',$cards[$num1],'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;';
+		echo sprinf( '-%8s',<img src="../cards/',$cards[$num1],'">');
 		echo '<img src="../cards/bg.png">';
 		echo '<input type="hidden" name="leftCard" value="',$num1,'">';
 		?>
